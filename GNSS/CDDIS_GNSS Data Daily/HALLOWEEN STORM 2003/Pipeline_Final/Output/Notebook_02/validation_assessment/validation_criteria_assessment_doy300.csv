@@ -1,0 +1,12 @@
+Criterion_ID,Validation_Criterion,Evidence,Status
+VC01,Raw vs Manual Timestamp,2878 of 2878 timestamps match exactly,PASS
+VC02,Epoch-Level Attributes,2878 epoch flags and satellite counts match,PASS
+VC03,Epoch-Satellite Keys,24254 of 24254 epoch-satellite pairs match,PASS
+VC04,Observation Keys,145524 observation keys match without duplicates,PASS
+VC05,Observation Values,120505 available values match exactly,PASS
+VC06,Missing-Value Preservation,25019 missing observation values preserved,PASS
+VC07,LLI and SSI Preservation,Raw and parsed LLI/SSI values and missing patterns compared,PASS
+VC08,GeoRinEx Observation Comparison,All observation keys and available values match,PASS
+VC09,GeoRinEx Timestamp Consistency,714 of 2878 timestamps differ by -1 ms; cause unresolved,REVIEW
+VC10,Discrepancy Documentation,9 findings documented: 8 NO DISCREPANCY and 1 UNRESOLVED,PASS
+VC11,Parser Generalizability,Validation currently limited to BAKO DOY300,REVIEW

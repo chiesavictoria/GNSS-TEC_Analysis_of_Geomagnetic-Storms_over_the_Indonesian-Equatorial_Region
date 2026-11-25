@@ -1,0 +1,28 @@
+Metadata_Field,Expected_Value,Extracted_Value,Status
+RINEX_Version,2.10,2.10,PASS
+File_Type,OBSERVATION DATA,OBSERVATION DATA,PASS
+Satellite_System,G (GPS),G (GPS),PASS
+Marker_Name,bako,bako,PASS
+Marker_Number,23101M002,23101M002,PASS
+Receiver_Serial,2491,2491,PASS
+Receiver_Type,TRIMBLE 4000SSE,TRIMBLE 4000SSE,PASS
+Receiver_Version,NP 7.19 / SP 3.04,NP 7.19 / SP 3.04,PASS
+Antenna_Serial,44148,44148,PASS
+Antenna_Type,TRM14532.00     NONE,TRM14532.00     NONE,PASS
+Station_X_m,-1836967.8873,-1836967.8873,PASS
+Station_Y_m,6065615.4384,6065615.4384,PASS
+Station_Z_m,-716260.3127,-716260.3127,PASS
+Antenna_Height_m,1.616,1.616,PASS
+Antenna_East_m,0.0,0.0,PASS
+Antenna_North_m,0.0,0.0,PASS
+Wavelength_Factor_L1,1,1,PASS
+Wavelength_Factor_L2,1,1,PASS
+Number_of_Observation_Types,6,6,PASS
+Observation_Types,"['L1', 'L2', 'C1', 'P2', 'P1', 'D1']","['L1', 'L2', 'C1', 'P2', 'P1', 'D1']",PASS
+First_Observation_Year,2003,2003,PASS
+First_Observation_Month,10,10,PASS
+First_Observation_Day,27,27,PASS
+First_Observation_Hour,0,0,PASS
+First_Observation_Minute,0,0,PASS
+First_Observation_Second,30.0,30.0,PASS
+Time_System,GPS,GPS,PASS

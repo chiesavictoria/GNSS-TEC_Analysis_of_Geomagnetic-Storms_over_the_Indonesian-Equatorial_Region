@@ -1,0 +1,21 @@
+FINAL DATASET AUDIT REPORT
+GNSS-TEC HALLOWEEN STORM 2003
+Station: BAKO
+
+Total files audited: 8
+
+INITIAL ELIGIBILITY SUMMARY:
+- ELIGIBLE_FOR_NEXT_STAGE: 6
+- REVIEW_BOUNDARY_COVERAGE: 1
+- HOLD_IDENTITY_MISMATCH: 1
+
+IMPORTANT FINDINGS:
+- DOY305 has an observation date mismatch.
+- DOY304 has 12 leading and 1 trailing missing grid slots.
+- No internal missing grid slots were identified.
+- DOY300-303 and DOY306-307 have 1 leading and 1 trailing missing slot each.
+
+SCOPE AND LIMITATION:
+This report documents initial file identity and temporal coverage.
+It does not establish observation-level quality or scientific suitability.
+Further RINEX parser validation and GNSS observation quality assessment are required.

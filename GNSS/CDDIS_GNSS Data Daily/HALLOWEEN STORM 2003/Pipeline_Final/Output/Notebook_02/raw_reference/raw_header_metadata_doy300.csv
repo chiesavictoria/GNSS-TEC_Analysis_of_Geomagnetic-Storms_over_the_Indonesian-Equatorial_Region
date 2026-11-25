@@ -1,0 +1,17 @@
+Metadata,Value
+RINEX_Version,2.10
+File_Type,OBSERVATION DATA
+Satellite_System,G (GPS)
+Marker_Name,bako
+Marker_Number,23101M002
+Receiver_Number,2491
+Receiver_Type,TRIMBLE 4000SSE
+Receiver_Version,NP 7.19 / SP 3.04
+Antenna_Number,44148
+Antenna_Type,TRM14532.00     NONE
+Approx_Position_XYZ,-1836967.8873  6065615.4384  -716260.3127
+Antenna_Delta_HEN,1.6160        0.0000        0.0000
+Observation_Types_Count,6
+Observation_Types,"['L1', 'L2', 'C1', 'P2', 'P1', 'D1']"
+First_Observation_Time,2003    10    27     0     0   30.0000000
+Time_System,GPS

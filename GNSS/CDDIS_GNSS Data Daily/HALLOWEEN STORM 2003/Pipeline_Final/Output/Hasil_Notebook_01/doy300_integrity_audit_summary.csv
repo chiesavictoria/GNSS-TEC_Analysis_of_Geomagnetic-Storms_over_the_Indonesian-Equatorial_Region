@@ -1,0 +1,2 @@
+File_Name,Folder,Expected_DOY,Expected_Date,Epoch_First_GPS,Epoch_Last_GPS,Observed_Epochs,Expected_Daily_Epochs,Successfully_Mapped,Unmapped_Epochs,Missing_Grid_Slots,Duplicate_Grid_Slots,Maximum_Absolute_Residual_ms,Temporal_Coverage_Percent,Duplicate_Timestamps,Nonzero_Epoch_Flags,Satellite_ID_Count_Mismatches
+bako3000.03o,DOY300,300,2003-10-27,2003-10-27 00:00:30,2003-10-27 23:59:00.128,2878,2880,2878,0,2,0,128.0,99.93055555555556,0,0,0

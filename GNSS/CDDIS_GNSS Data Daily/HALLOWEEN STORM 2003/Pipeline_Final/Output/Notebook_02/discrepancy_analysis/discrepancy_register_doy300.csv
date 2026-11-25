@@ -1,0 +1,10 @@
+ID,Parameter,Reference,Finding,Evidence,Classification,Action
+D001,GeoRinEx Timestamp,Raw RINEX,714 of 2878 timestamps differ by -1 ms,All 714 timestamps verified against original raw RINEX text,UNRESOLVED,Preserve raw RINEX and manual parser timestamps; do not shift GeoRinEx timestamps
+D002,Epoch Timestamp Reconciliation,Raw RINEX vs Manual Parser,2878 of 2878 timestamps match exactly,Zero unmatched timestamps and zero nonzero time differences,NO DISCREPANCY,No correction required
+D003,Epoch-Level Attributes,Raw RINEX vs Manual Parser,Epoch flags and declared satellite counts match for all 2878 epochs,Zero mismatches,NO DISCREPANCY,No correction required
+D004,Epoch-Satellite Keys,Raw RINEX vs Manual Parser,All 24254 epoch-satellite pairs match,Zero raw-only and parser-only pairs,NO DISCREPANCY,No correction required
+D005,Observation Keys,Raw RINEX vs Manual Parser,All 145524 observation keys match,Zero unmatched and duplicate observation keys,NO DISCREPANCY,No correction required
+D006,Observation Values,Raw RINEX vs Manual Parser,All available observation values match exactly,120505 available values; zero numerical mismatches,NO DISCREPANCY,No correction required
+D007,Observation Values,Manual Parser vs GeoRinEx,All 120505 available values match exactly,145524 matched observation keys; zero value mismatches,NO DISCREPANCY,No correction required
+D008,Missing-Value Pattern,Raw RINEX vs Manual Parser vs GeoRinEx,Missing-value patterns are consistent,25019 missing values across matched observation keys,NO DISCREPANCY,Preserve missing values as NaN
+D009,Satellite IDs and Observation Types,Raw RINEX vs GeoRinEx,All 28 satellite IDs and 6 observation types match,Exact coordinate-set agreement,NO DISCREPANCY,No correction required

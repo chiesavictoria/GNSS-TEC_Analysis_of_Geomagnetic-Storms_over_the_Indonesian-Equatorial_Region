@@ -1,0 +1,10 @@
+ID,Parameter,Finding,Evidence,Classification
+D001,GeoRinEx Timestamp,714 of 2878 timestamps differ by -1 ms,All 714 verified against raw RINEX text,UNRESOLVED
+D002,Raw vs Manual Parser Timestamp,2878 of 2878 timestamps match exactly,Zero timestamp mismatches,NO DISCREPANCY
+D003,Epoch-Level Attributes,All epoch flags and satellite counts match,2878 epochs; zero mismatches,NO DISCREPANCY
+D004,Epoch-Satellite Keys,All 24254 pairs match,Zero unmatched pairs,NO DISCREPANCY
+D005,Observation Keys,All 145524 keys match,Zero unmatched or duplicate keys,NO DISCREPANCY
+D006,Raw vs Manual Observation Values,All available values match exactly,120505 available values; zero mismatches,NO DISCREPANCY
+D007,Manual vs GeoRinEx Observation Values,All available values match exactly,120505 available values; zero mismatches,NO DISCREPANCY
+D008,Missing-Value Pattern,All missing-value patterns are consistent,25019 missing values; zero pattern mismatches,NO DISCREPANCY
+D009,Satellite IDs and Observation Types,All 28 satellite IDs and 6 observation types match,Exact coordinate-set agreement,NO DISCREPANCY

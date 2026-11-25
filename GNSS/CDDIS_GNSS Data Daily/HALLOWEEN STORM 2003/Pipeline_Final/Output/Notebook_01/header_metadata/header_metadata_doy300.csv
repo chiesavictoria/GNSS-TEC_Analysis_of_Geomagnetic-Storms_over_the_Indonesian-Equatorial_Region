@@ -1,0 +1,31 @@
+Metadata_Field,Metadata_Value
+RINEX_Version,2.10
+File_Type,OBSERVATION DATA
+Satellite_System,G (GPS)
+Marker_Name,bako
+Marker_Number,23101M002
+Observer,eka
+Agency,bakosurtanal
+Receiver_Serial,2491
+Receiver_Type,TRIMBLE 4000SSE
+Receiver_Version,NP 7.19 / SP 3.04
+Antenna_Serial,44148
+Antenna_Type,TRM14532.00     NONE
+Antenna_Detail,
+Station_X_m,-1836967.8873
+Station_Y_m,6065615.4384
+Station_Z_m,-716260.3127
+Antenna_Height_m,1.616
+Antenna_East_m,0.0
+Antenna_North_m,0.0
+Wavelength_Factor_L1,1
+Wavelength_Factor_L2,1
+Number_of_Observation_Types,6
+Observation_Types,"['L1', 'L2', 'C1', 'P2', 'P1', 'D1']"
+First_Observation_Year,2003
+First_Observation_Month,10
+First_Observation_Day,27
+First_Observation_Hour,0
+First_Observation_Minute,0
+First_Observation_Second,30.0
+Time_System,GPS

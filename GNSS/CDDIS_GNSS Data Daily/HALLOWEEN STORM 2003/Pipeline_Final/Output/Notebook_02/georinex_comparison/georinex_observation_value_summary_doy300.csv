@@ -1,0 +1,7 @@
+Observation_Type,Total_Records,Matched_Keys,Manual_Only_Keys,GeoRinEx_Only_Keys,Both_Missing,Both_Available,Exact_Matches,Value_Mismatches,Maximum_Absolute_Difference
+C1,24254,24254,0,0,0,24254,24254,0,0.0
+D1,24254,24254,0,0,0,24254,24254,0,0.0
+L1,24254,24254,0,0,17,24237,24237,0,0.0
+L2,24254,24254,0,0,374,23880,23880,0,0.0
+P1,24254,24254,0,0,24254,0,0,0,
+P2,24254,24254,0,0,374,23880,23880,0,0.0
